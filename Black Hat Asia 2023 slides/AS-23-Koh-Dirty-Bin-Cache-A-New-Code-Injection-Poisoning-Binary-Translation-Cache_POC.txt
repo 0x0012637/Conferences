@@ -1,2 +1,0 @@
-https://github.com/FFRI/AotPoisoning
-https://github.com/FFRI/XtacPoisoning
