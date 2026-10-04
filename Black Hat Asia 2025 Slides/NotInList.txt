@@ -1,0 +1,32 @@
+Edward Chen_Keynote: Cyber Threats in the Age of AI
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#keynote-cyber-threats-in-the-age-of-ai-44612
+
+
+Vivek Balachandran & Nikhil Bartake & Zi Jie See Toh & Michael Kasper_ObfusQate: Where Quantum Magic Meets Code Security – Say Goodbye to Easy Cracking!
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#obfusqate-where-quantum-magic-meets-code-security--say-goodbye-to-easy-cracking-43633
+
+
+
+Allyn Stott_Tinker Tailor LLM Spy: Investigate & Respond to Attacks on GenAI Chatbots
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#tinker-tailor-llm-spy-investigate--respond-to-attacks-on-genai-chatbots-44556
+
+
+Wojciech Regula_Who Cares Where Waldo Is. Locating macOS Users Without Their Consent
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#who-cares-where-waldo-is-locating-macos-users-without-their-consent-44563
+
+
+Sergey Shekyan & Qinger Chen_Fake Deals and Real Steals: The Art of E-Commerce Fraud
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#fake-deals-and-real-steals-the-art-of-e-commerce-fraud-43817
+
+
+
+Bunnie Huang_Keynote: Perspectives on Trust in Hardware Supply Chains
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#keynote-perspectives-on-trust-in-hardware-supply-chains-44613
+
+
+
+Neil (Grifter) Wyler & Bart Stump_The Black Hat Asia Network Operations Center (NOC) Report
+https://blackhat.com/asia-25/briefings/schedule/?__cf_chl_tk=R4T9IqSD8VM8V34HxZhJEJzougebUuLlpmqiurg4pvw-1743959629-1.0.1.1-ADqsjuxalwYHGb7KcN.QTl5vLXWphfzkN0JacPLQoJE#the-black-hat-asia-network-operations-center-noc-report-44592
+
+
+
